@@ -1,2 +1,1 @@
-# hello-world
-my first github project
+This is a README file
